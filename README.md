@@ -6,4 +6,4 @@
 - Javascript
 
 ## NPM packages installed
-npm install webpack webpack-cli -D
+`npm install webpack webpack-cli -D`
